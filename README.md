@@ -6,7 +6,7 @@ import hashlib
 
 # ========================================================
 # EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-VERSION_COMMIT_TRIGGER = 3
+VERSION_COMMIT_TRIGGER = 4
 # ========================================================
 
 class BaseWalletSimulator:
